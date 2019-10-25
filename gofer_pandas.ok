@@ -1,0 +1,12 @@
+{
+  "name": "Names in Python",
+  "src": [
+    "gofer_pandas.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
